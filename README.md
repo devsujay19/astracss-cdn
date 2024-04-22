@@ -37,4 +37,4 @@ For casual chit-chat with others using Astra:
 
 ## Contributing
 
-If you're interested in contributing to Astra CSS, please read our [contributing documentation](https://github.com/devsujay19/astracss/blob/master/.github/CONTRIBUTING.md) **before submitting a pull request**.
+If you're interested in contributing to Astra CSS, please read our [contributing documentation](https://github.com/devsujay19/astracss-cdn/blob/main/.github/CONTIBUTING.md) **before submitting a pull request**.
