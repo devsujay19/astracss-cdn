@@ -21406,7 +21406,7 @@
       return i && i.__esModule ? i : { default: i };
     }
     console.warn(
-      "astracss.vercel.app/astra.bundle.min.js should not be used in production. To use Astra CSS in production, install it as a PostCSS plugin or use the astra CLI: https://astracss.vercel.app/docs/installation",
+      "astracss-cdn.vercel.app/0.1.0.js should not be used in production. To use Astra CSS in production, install it as a PostCSS plugin or use the Astra CLI: https://astracss.vercel.app/docs/installation",
     );
     var Hn = "astra",
       tu = "text/astracss",
