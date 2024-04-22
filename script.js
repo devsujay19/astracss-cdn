@@ -1,3 +1,3 @@
 function redirect() {
-    location.replace("./astra.bundle.min.js")
+    location.replace("./0.1.0")
 };
